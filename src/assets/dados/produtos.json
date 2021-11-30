@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "nome":"AirMax 90",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis01.jpg",
+    "descricao":"Nada tão legal, nada tão confortável, nada tão comprovado. O Nike Air Max 90 permanece fiel às suas raízes de corrida do OG, com a emblemática sola Waffle, sobreposições costuradas e detalhes clássicos em TPU. As cores clássicas celebram seu visual renovado, enquanto o amortecimento Max Air aumenta o conforto da viagem."
+  },
+  {
+    "id": 2,
+    "nome":"AirMax 2090",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis02.jpg",
+    "descricao":"Mais Air sob o pé para uma passada mais macia e mais confortável. Além disso, 360 graus de borracha reforçada e transparente servem para conter o amortecimento, conferindo um visual arrojado e futurista."
+  },
+  {
+    "id": 3,
+    "nome":"AirMax Plus SE",
+    "cor": "Vermelho",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis05.jpg",
+    "descricao":"Mostre sua atitude com o Nike Air Max Plus SE, uma experiência Air que celebra o 50º aniversário do Swoosh. Com estabilidade premium e amortecimento impressionante, ele conta com o design do Swoosh original, o Swoosh do deubré removível e o número de patente do Swoosh. Os dedos icônicos em TPU nas laterais e a biqueira reforçada adicionam um toque rebelde."
+  },
+  {
+    "id": 4,
+    "nome":"Revolution 5",
+    "cor": "Preto",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis06.jpg",
+    "descricao":"O Nike Revolution 5 amortece a sua passada com espuma macia para manter você correndo com conforto. Material knit super leve envolve o seu pé em suporte respirável, enquanto um design minimalista é perfeito para onde quer que o seu dia te leve."
+  },
+  {
+    "id": 5,
+    "nome":"AirForce 1'07 Especial",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis07.jpg",
+    "descricao":"O brilho perdura no Nike Air Force 1 '07, o ícone do basquete com um toque botânico daquilo que você conhece bem: sobreposições costuradas, cores vibrantes e a quantidade perfeita de brilho para você se destacar. Feito com pelo menos 20% de materiais reciclados por peso, o calçado apresenta agora lona feita 100% de materiais reciclados."
+  },
+  {
+    "id": 6,
+    "nome":"Air Zoom-Type Premium",
+    "cor": "Vermelho",
+    "estilo":"basquete",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis08.jpg",
+    "descricao":"O Nike Air Zoom-Type suaviza a sua pisada com um pouco de abacaxi dourado. Trazendo o visual desconstruído do N354 para as ruas, ele celebra o mundo natural com toques de material vegetal ricamente texturizado (feito de fibra de folha de abacaxi) nos ilhós e na língua. O cabedal cor de leite de coco (em algumas versões) é fácil de estilizar, enquanto o solado com infusão de cortiça oferece a quantidade perfeita de sofisticação real ao seu look."
+  },
+  {
+    "id": 7,
+    "nome":"Air Zoom SuperRep 2",
+    "cor": "Preto",
+    "estilo":"basquete",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis09.jpg",
+    "descricao":"O Nike Air Zoom SuperRep 2 foi projetado para treinos em circuito, HIIT, corridas curtas e outros exercícios com ritmo rápido. As camadas de suporte e o amortecimento Zoom Air trabalham juntos para manter o pé firme e confortável em todos os movimentos e repetições do exercício. O design mais espaçoso ao redor dos dedos permite que você tenha o ajuste perfeito."
+  },
+  {
+    "id": 8,
+    "nome":"React Art3 Mis",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis10.jpg",
+    "descricao":"Como uma das marcas esportivas mais respeitadas do mundo, a Nike constantemente olha para suas próprias raízes para inspirar suas coleções atuais do Sportstyle. Deste modo, para esse lançamento, a marca usa a famosa espuma React, conhecido por seu conforto incomparável, em um modelo projetado exclusivamente para mulheres."
+  },
+  {
+    "id": 9,
+    "nome":"AirMax Infinity",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis11.jpg",
+    "descricao":"O Nike Air Max Infinity proporciona o melhor conforto da sua classe em uma silhueta moderna. Com estilo e tecnologia expressivos que você pode realmente sentir, ele pode ser considerado o futuro do conforto."
+  },
+  {
+    "id": 10,
+    "nome":"AirForce 1 Crater",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis12.jpg",
+    "descricao":"Uma nova proposta para o ícone do basquete, o S.C. Corinthians Stadium Third combina o estilo clássico do basquete com uma construção moderna."
+  },
+  {
+    "id": 11,
+    "nome":"Grand Court Base",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas01.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 12,
+    "nome":"4D Run 1.0",
+    "cor": "Vermelho",
+    "estilo":"casual",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas02.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 13,
+    "nome":"Grand Court SE",
+    "cor": "Preto",
+    "estilo":"casual",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas03.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 14,
+    "nome":"OWN the game",
+    "cor": "Preto",
+    "estilo":"basquete",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas04.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 15,
+    "nome":"Harden Stepback",
+    "cor": "Vermelho",
+    "estilo":"basquete",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas05.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 16,
+    "nome":"Abaca",
+    "cor": "Vermelho",
+    "estilo":"skateboard",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas06.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 17,
+    "nome":"Forum Exhibit Low",
+    "cor": "Vermelho",
+    "estilo":"skateboard",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas07.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 18,
+    "nome":"Lucas Premiere",
+    "cor": "Preto",
+    "estilo":"skateboard",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas08.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 19,
+    "nome":"Lucas Premiere Pro",
+    "cor": "Preto",
+    "estilo":"skateboard",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas10.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 20,
+    "nome":"3ST.004",
+    "cor": "Vermelho",
+    "estilo":"skateboard",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas09.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 21,
+    "nome":"Dreamer 2",
+    "cor": "Vermelho",
+    "estilo":"basquete",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma02.jfif",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 22,
+    "nome":"Clyde Court",
+    "cor": "Vermelho",
+    "estilo":"basquete",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma03.jfif",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 23,
+    "nome":"Court Rider Twofold",
+    "cor": "Branco",
+    "estilo":"basquete",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma04.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 24,
+    "nome":"Ralph Sampson",
+    "cor": "Preto",
+    "estilo":"basquete",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma05.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 25,
+    "nome":"Palace Guard",
+    "cor": "Branco",
+    "estilo":"basquete",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma06.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 26,
+    "nome":"RS-X 90s",
+    "cor": "Branco",
+    "estilo":"basquete",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma07.jfif",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 27,
+    "nome":"RS-X Gloaming",
+    "cor": "Branco",
+    "estilo":"basquete",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma08.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 28,
+    "nome":"X-Ray Chivas",
+    "cor": "Vermelho",
+    "estilo":"casual",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma10.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 29,
+    "nome":"Carina BDP",
+    "cor": "Preto",
+    "estilo":"skateboard",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma11.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 30,
+    "nome":"Carina Leo",
+    "cor": "Preto",
+    "estilo":"skateboard",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma12.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 31,
+    "nome":"UPath X",
+    "cor": "Preto",
+    "estilo":"skateboard",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas11.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 32,
+    "nome":"Chron 2 SB",
+    "cor": "Preto",
+    "estilo":"skateboard",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis13.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 33,
+    "nome":"Stefan Janoski RM",
+    "cor": "Branco",
+    "estilo":"skateboard",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis14.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 34,
+    "nome":"Mercurial Dream Speed Superfly 8",
+    "cor": "Branco",
+    "estilo":"futebol",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis15.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 35,
+    "nome":"Future Z 3.1",
+    "cor": "Branco",
+    "estilo":"futebol",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma13.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 36,
+    "nome":"Mercurial Superfly 7",
+    "cor": "Vermelho",
+    "estilo":"futebol",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis16.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 37,
+    "nome":"Phantom GT2 Elite",
+    "cor": "Branco",
+    "estilo":"futebol",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis17.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 38,
+    "nome":"Predator Freak+",
+    "cor": "Preto",
+    "estilo":"futebol",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas12.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 39,
+    "nome":"X 19.3",
+    "cor": "Branco",
+    "estilo":"futebol",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas13.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 40,
+    "nome":"Future Z 2.1",
+    "cor": "Branco",
+    "estilo":"futebol",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma09.jfif",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 41,
+    "nome":"Nemeziz 19.3",
+    "cor": "Vermelho",
+    "estilo":"futebol",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas14.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 42,
+    "nome":"Mercurial Vapor 14 Elite",
+    "cor": "Preto",
+    "estilo":"futebol",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis18.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 43,
+    "nome":"Artilheira IV",
+    "cor": "Branco",
+    "estilo":"futebol",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas15.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 44,
+    "nome":"AirMax 2090 M",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis19.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 45,
+    "nome":"AirMax 2090 M2",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis20.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 46,
+    "nome":"AirMax Infinity 2",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis21.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 47,
+    "nome":"AirMax 2021",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis22.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 48,
+    "nome":"AirForce 1'07 Classic",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis23.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 49,
+    "nome":"AirMax Plus EOI",
+    "cor": "Preto",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis24.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 50,
+    "nome":"ZoomX Vaporfly Next",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis25.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 51,
+    "nome":"4D Run 1.0",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas16.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 52,
+    "nome":"4DFWD Tokyo",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas17.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 53,
+    "nome":"Court Smash",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas18.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 54,
+    "nome":"Ultraboost X Lego Colors",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas19.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 55,
+    "nome":"Response Super",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas20.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 56,
+    "nome":"Duramo",
+    "cor": "Preto",
+    "estilo":"casual",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas21.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 57,
+    "nome":"Superstar special",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas22.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 58,
+    "nome":"4DFWD Pulse",
+    "cor": "Preto",
+    "estilo":"casual",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas23.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 59,
+    "nome":"SPFC Grand Court",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas24.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 60,
+    "nome":"Deerupt Runner W",
+    "cor": "Vermelho",
+    "estilo":"casual",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas25.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 61,
+    "nome":"St Runner V2 Mesh",
+    "cor": "Preto",
+    "estilo":"casual",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma14.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 62,
+    "nome":"Cali F",
+    "cor": "Branco",
+    "estilo":"skateboard",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma10.jfif",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 63,
+    "nome":"Wild Rider Rollin",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma15.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 64,
+    "nome":"Future Rider Play On",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma16.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 65,
+    "nome":"CA Pro Classic",
+    "cor": "Preto",
+    "estilo":"skateboard",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma11.jfif",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 66,
+    "nome":"CA Pro Tech Trainers",
+    "cor": "Branco",
+    "estilo":"skateboard",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma12.jfif",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 67,
+    "nome":"Carina F",
+    "cor": "Vermelho",
+    "estilo":"skateboard",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma13.jfif",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 68,
+    "nome":"Shuffle Mid",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma17.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 69,
+    "nome":"Runner V2 NL V",
+    "cor": "Vermelho",
+    "estilo":"casual",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma18.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 70,
+    "nome":"Suede Classic XXI",
+    "cor": "Preto",
+    "estilo":"casual",
+    "marca":"Puma",
+    "img":"./assets/produtos/tenispuma14.jfif",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 71,
+    "nome":"Mercurial SuperFly 7 Academy",
+    "cor": "Branco",
+    "estilo":"futebol",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis26.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 72,
+    "nome":"Mercurial Vapor 13 Elite Korea",
+    "cor": "Branco",
+    "estilo":"futebol",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis27.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 73,
+    "nome":"Free Run 5.0",
+    "cor": "Branco",
+    "estilo":"futebol",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis28.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 74,
+    "nome":"Tiempo Legend 8 Elite",
+    "cor": "Branco",
+    "estilo":"futebol",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis29.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 75,
+    "nome":"Tiempo Legend 9 Elite",
+    "cor": "Branco",
+    "estilo":"futebol",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis30.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 76,
+    "nome":"Mercurial Vapor 13 Elite",
+    "cor": "Branco",
+    "estilo":"futebol",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis31.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 77,
+    "nome":"Tiempo Legend 8 Club",
+    "cor": "Branco",
+    "estilo":"futebol",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis32.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 78,
+    "nome":"Mercurial Superfly 7 Academy Mbappé",
+    "cor": "Vermelho",
+    "estilo":"futebol",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis33.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 79,
+    "nome":"Mercurial Superfly 8 Academy CR7",
+    "cor": "Vermelho",
+    "estilo":"futebol",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis34.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 80,
+    "nome":"Mercurial Superfly 8 Club",
+    "cor": "Vermelho",
+    "estilo":"futebol",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis35.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 81,
+    "nome":"PRO Spark",
+    "cor": "Preto",
+    "estilo":"basquete",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas26.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 82,
+    "nome":"OWN the game V2",
+    "cor": "Branco",
+    "estilo":"basquete",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas27.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 83,
+    "nome":"Harden Stepback 2",
+    "cor": "Branco",
+    "estilo":"basquete",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas28.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 84,
+    "nome":"Harden Stepback 2",
+    "cor": "Preto",
+    "estilo":"basquete",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas29.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 85,
+    "nome":"Pro Next",
+    "cor": "Vermelho",
+    "estilo":"basquete",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas30.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 86,
+    "nome":"Pro Next",
+    "cor": "Preto",
+    "estilo":"basquete",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas31.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 87,
+    "nome":"Pro Next",
+    "cor": "Branco",
+    "estilo":"basquete",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas32.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 88,
+    "nome":"StreetFire",
+    "cor": "Branco",
+    "estilo":"basquete",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas33.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 89,
+    "nome":"Multix",
+    "cor": "Preto",
+    "estilo":"casual",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas34.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 90,
+    "nome":"Ultraboost F2",
+    "cor": "Vermelho",
+    "estilo":"casual",
+    "marca":"Adidas",
+    "img":"./assets/produtos/tenisadidas35.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 91,
+    "nome":"AirMax 97 Edition Special",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis36.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 92,
+    "nome":"AirMax 90",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis37.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 93,
+    "nome":"AirMax Impact 2",
+    "cor": "Preto",
+    "estilo":"basquete",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis38.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 94,
+    "nome":"Varsity Compete TR 3",
+    "cor": "Preto",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis39.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 95,
+    "nome":"ZoomX Invencible Run",
+    "cor": "Vermelho",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis40.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 96,
+    "nome":"Air Zoom-Type Edition Special",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis41.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 97,
+    "nome":"Air Zoom-Type",
+    "cor": "Vermelho",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis42.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 98,
+    "nome":"AirForce 1 Shadow",
+    "cor": "Vermelho",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis43.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 99,
+    "nome":"AirMax 2X",
+    "cor": "Preto",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis44.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  },
+  {
+    "id": 100,
+    "nome":"Ultraboost F2",
+    "cor": "Branco",
+    "estilo":"casual",
+    "marca":"Nike",
+    "img":"./assets/produtos/tenis45.jpg",
+    "descricao":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  }
+]

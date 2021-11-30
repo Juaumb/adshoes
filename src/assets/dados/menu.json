@@ -1,0 +1,52 @@
+[
+  {
+    "categoriaId": 1,
+    "descricao": "Nike",
+    "rota": "/produtos/marca/nike"
+  },
+  {
+    "categoriaId": 1,
+    "descricao": "Adidas",
+    "rota": "/produtos/marca/adidas"
+  },
+  {
+    "categoriaId": 1,
+    "descricao": "Adidas",
+    "rota": "/produtos/marca/puma"
+  },
+  {
+    "categoriaId": 2,
+    "descricao": "Casual",
+    "rota": "/produtos/estilo/casual"
+  },
+  {
+    "categoriaId": 2,
+    "descricao": "Skateboard",
+    "rota": "/produtos/estilo/skateboard"
+  },
+  {
+    "categoriaId": 2,
+    "descricao": "Futebol",
+    "rota": "/produtos/estilo/futebol"
+  },
+  {
+    "categoriaId": 2,
+    "descricao": "Basquete",
+    "rota": "/produtos/estilo/basquete"
+  },
+  {
+    "categoriaId": 3,
+    "descricao": "Branco",
+    "rota": "/produtos/cor/branco"
+  },
+  {
+    "categoriaId": 3,
+    "descricao": "Preto",
+    "rota": "/produtos/cor/preto"
+  },
+  {
+    "categoriaId": 3,
+    "descricao": "Vermelho",
+    "rota": "/produtos/cor/vermelho"
+  }
+]
